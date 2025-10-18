@@ -4,7 +4,7 @@ Generate colorful images via random walk in Z5 (Hue, Saturation, Value, X, Y).
 
 ## Usage
 
-Open `index.html` in a browser.
+Go to [sardonyx001.github.io/z5-walker](https://sardonyx001.github.io/z5-walker/) or open `index.html` in a browser.
 
 - **Generate**: Create a new random walk image (up to 50M steps)
 - **Download**: Save the generated image as PNG
